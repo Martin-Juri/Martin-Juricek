@@ -1,2 +1,2 @@
-# Martin-Juricek-uloha2
+# Martin-Juricek-ulohy
 repozitar pre react appku
